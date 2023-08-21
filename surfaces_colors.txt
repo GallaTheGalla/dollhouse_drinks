@@ -1,0 +1,2601 @@
+surface1000
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/abyss_0.png,0,0
+}
+
+surface1001
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/abyss_1.png,0,0
+}
+
+surface1002
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/abyss_2.png,0,0
+}
+
+surface1003
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/apricot_0.png,0,0
+}
+
+surface1004
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/apricot_1.png,0,0
+}
+
+surface1005
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/apricot_2.png,0,0
+}
+
+surface1006
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/black_0.png,0,0
+}
+
+surface1007
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/black_1.png,0,0
+}
+
+surface1008
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/black_2.png,0,0
+}
+
+surface1009
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/blood_0.png,0,0
+}
+
+surface1010
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/blood_1.png,0,0
+}
+
+surface1011
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/blood_2.png,0,0
+}
+
+surface1012
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/blue_0.png,0,0
+}
+
+surface1013
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/blue_1.png,0,0
+}
+
+surface1014
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/blue_2.png,0,0
+}
+
+surface1015
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/blush_0.png,0,0
+}
+
+surface1016
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/blush_1.png,0,0
+}
+
+surface1017
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/blush_2.png,0,0
+}
+
+surface1018
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/brass_0.png,0,0
+}
+
+surface1019
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/brass_1.png,0,0
+}
+
+surface1020
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/brass_2.png,0,0
+}
+
+surface1021
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/brick_0.png,0,0
+}
+
+surface1022
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/brick_1.png,0,0
+}
+
+surface1023
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/brick_2.png,0,0
+}
+
+surface1024
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/brown_0.png,0,0
+}
+
+surface1025
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/brown_1.png,0,0
+}
+
+surface1026
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/brown_2.png,0,0
+}
+
+surface1027
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/bubbles_0.png,0,0
+}
+
+surface1028
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/bubbles_1.png,0,0
+}
+
+surface1029
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/bubbles_2.png,0,0
+}
+
+surface1030
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/canary_0.png,0,0
+}
+
+surface1031
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/canary_1.png,0,0
+}
+
+surface1032
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/canary_2.png,0,0
+}
+
+surface1033
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/chicory_0.png,0,0
+}
+
+surface1034
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/chicory_1.png,0,0
+}
+
+surface1035
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/chicory_2.png,0,0
+}
+
+surface1036
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/chocolate_0.png,0,0
+}
+
+surface1037
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/chocolate_1.png,0,0
+}
+
+surface1038
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/chocolate_2.png,0,0
+}
+
+surface1039
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/coal_0.png,0,0
+}
+
+surface1040
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/coal_1.png,0,0
+}
+
+surface1041
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/coal_2.png,0,0
+}
+
+surface1042
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/copper_0.png,0,0
+}
+
+surface1043
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/copper_1.png,0,0
+}
+
+surface1044
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/copper_2.png,0,0
+}
+
+surface1045
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/coral_0.png,0,0
+}
+
+surface1046
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/coral_1.png,0,0
+}
+
+surface1047
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/coral_2.png,0,0
+}
+
+surface1048
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/cream_0.png,0,0
+}
+
+surface1049
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/cream_1.png,0,0
+}
+
+surface1050
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/cream_2.png,0,0
+}
+
+surface1051
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/cyan_0.png,0,0
+}
+
+surface1052
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/cyan_1.png,0,0
+}
+
+surface1053
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/cyan_2.png,0,0
+}
+
+surface1054
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/deep_0.png,0,0
+}
+
+surface1055
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/deep_1.png,0,0
+}
+
+surface1056
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/deep_2.png,0,0
+}
+
+surface1057
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/denim_0.png,0,0
+}
+
+surface1058
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/denim_1.png,0,0
+}
+
+surface1059
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/denim_2.png,0,0
+}
+
+surface1060
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/driftwood_0.png,0,0
+}
+
+surface1061
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/driftwood_1.png,0,0
+}
+
+surface1062
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/driftwood_2.png,0,0
+}
+
+surface1063
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/forest_0.png,0,0
+}
+
+surface1064
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/forest_1.png,0,0
+}
+
+surface1065
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/forest_2.png,0,0
+}
+
+surface1066
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/fuchsia_0.png,0,0
+}
+
+surface1067
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/fuchsia_1.png,0,0
+}
+
+surface1068
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/fuchsia_2.png,0,0
+}
+
+surface1069
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/green_0.png,0,0
+}
+
+surface1070
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/green_1.png,0,0
+}
+
+surface1071
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/green_2.png,0,0
+}
+
+surface1072
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/honey_0.png,0,0
+}
+
+surface1073
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/honey_1.png,0,0
+}
+
+surface1074
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/honey_2.png,0,0
+}
+
+surface1075
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/lava_0.png,0,0
+}
+
+surface1076
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/lava_1.png,0,0
+}
+
+surface1077
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/lava_2.png,0,0
+}
+
+surface1078
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/lilypad_0.png,0,0
+}
+
+surface1079
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/lilypad_1.png,0,0
+}
+
+surface1080
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/lilypad_2.png,0,0
+}
+
+surface1081
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/linen_0.png,0,0
+}
+
+surface1082
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/linen_1.png,0,0
+}
+
+surface1083
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/linen_2.png,0,0
+}
+
+surface1084
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/magenta_0.png,0,0
+}
+
+surface1085
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/magenta_1.png,0,0
+}
+
+surface1086
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/magenta_2.png,0,0
+}
+
+surface1087
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/navy_0.png,0,0
+}
+
+surface1088
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/navy_1.png,0,0
+}
+
+surface1089
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/navy_2.png,0,0
+}
+
+surface1090
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/orange_0.png,0,0
+}
+
+surface1091
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/orange_1.png,0,0
+}
+
+surface1092
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/orange_2.png,0,0
+}
+
+surface1093
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/orchid_0.png,0,0
+}
+
+surface1094
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/orchid_1.png,0,0
+}
+
+surface1095
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/orchid_2.png,0,0
+}
+
+surface1096
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/peacock_0.png,0,0
+}
+
+surface1097
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/peacock_1.png,0,0
+}
+
+surface1098
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/peacock_2.png,0,0
+}
+
+surface1099
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/pink_0.png,0,0
+}
+
+surface1100
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/pink_1.png,0,0
+}
+
+surface1101
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/pink_2.png,0,0
+}
+
+surface1102
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/plum_0.png,0,0
+}
+
+surface1103
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/plum_1.png,0,0
+}
+
+surface1104
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/plum_2.png,0,0
+}
+
+surface1105
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/purple_0.png,0,0
+}
+
+surface1106
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/purple_1.png,0,0
+}
+
+surface1107
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/purple_2.png,0,0
+}
+
+surface1108
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/red_0.png,0,0
+}
+
+surface1109
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/red_1.png,0,0
+}
+
+surface1110
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/red_2.png,0,0
+}
+
+surface1111
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/rose_0.png,0,0
+}
+
+surface1112
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/rose_1.png,0,0
+}
+
+surface1113
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/rose_2.png,0,0
+}
+
+surface1114
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/royal_0.png,0,0
+}
+
+surface1115
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/royal_1.png,0,0
+}
+
+surface1116
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/royal_2.png,0,0
+}
+
+surface1117
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/silver_0.png,0,0
+}
+
+surface1118
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/silver_1.png,0,0
+}
+
+surface1119
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/silver_2.png,0,0
+}
+
+surface1120
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/sky_0.png,0,0
+}
+
+surface1121
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/sky_1.png,0,0
+}
+
+surface1122
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/sky_2.png,0,0
+}
+
+surface1123
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/spring_0.png,0,0
+}
+
+surface1124
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/spring_1.png,0,0
+}
+
+surface1125
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/spring_2.png,0,0
+}
+
+surface1126
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/thistle_0.png,0,0
+}
+
+surface1127
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/thistle_1.png,0,0
+}
+
+surface1128
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/thistle_2.png,0,0
+}
+
+surface1129
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/tide_0.png,0,0
+}
+
+surface1130
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/tide_1.png,0,0
+}
+
+surface1131
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/tide_2.png,0,0
+}
+
+surface1132
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/toxic_0.png,0,0
+}
+
+surface1133
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/toxic_1.png,0,0
+}
+
+surface1134
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/toxic_2.png,0,0
+}
+
+surface1135
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/white_0.png,0,0
+}
+
+surface1136
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/white_1.png,0,0
+}
+
+surface1137
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/white_2.png,0,0
+}
+
+surface1138
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/wine_0.png,0,0
+}
+
+surface1139
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/wine_1.png,0,0
+}
+
+surface1140
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/wine_2.png,0,0
+}
+
+surface1141
+{
+	element0,overlay,surface900.png,0,0
+	element1,overlayfast,/palettes/yellow_0.png,0,0
+}
+
+surface1142
+{
+	element0,overlay,surface901.png,0,0
+	element1,overlayfast,/palettes/yellow_1.png,0,0
+}
+
+surface1143
+{
+	element0,overlay,surface902.png,0,0
+	element1,overlayfast,/palettes/yellow_2.png,0,0
+}
+
+
+
+
+
+
+surface2000
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/abyss_0.png,0,0
+}
+
+surface2001
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/abyss_1.png,0,0
+}
+
+surface2002
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/abyss_2.png,0,0
+}
+
+surface2003
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/apricot_0.png,0,0
+}
+
+surface2004
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/apricot_1.png,0,0
+}
+
+surface2005
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/apricot_2.png,0,0
+}
+
+surface2006
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/black_0.png,0,0
+}
+
+surface2007
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/black_1.png,0,0
+}
+
+surface2008
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/black_2.png,0,0
+}
+
+surface2009
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/blood_0.png,0,0
+}
+
+surface2010
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/blood_1.png,0,0
+}
+
+surface2011
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/blood_2.png,0,0
+}
+
+surface2012
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/blue_0.png,0,0
+}
+
+surface2013
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/blue_1.png,0,0
+}
+
+surface2014
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/blue_2.png,0,0
+}
+
+surface2015
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/blush_0.png,0,0
+}
+
+surface2016
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/blush_1.png,0,0
+}
+
+surface2017
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/blush_2.png,0,0
+}
+
+surface2018
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/brass_0.png,0,0
+}
+
+surface2019
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/brass_1.png,0,0
+}
+
+surface2020
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/brass_2.png,0,0
+}
+
+surface2021
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/brick_0.png,0,0
+}
+
+surface2022
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/brick_1.png,0,0
+}
+
+surface2023
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/brick_2.png,0,0
+}
+
+surface2024
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/brown_0.png,0,0
+}
+
+surface2025
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/brown_1.png,0,0
+}
+
+surface2026
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/brown_2.png,0,0
+}
+
+surface2027
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/bubbles_0.png,0,0
+}
+
+surface2028
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/bubbles_1.png,0,0
+}
+
+surface2029
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/bubbles_2.png,0,0
+}
+
+surface2030
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/canary_0.png,0,0
+}
+
+surface2031
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/canary_1.png,0,0
+}
+
+surface2032
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/canary_2.png,0,0
+}
+
+surface2033
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/chicory_0.png,0,0
+}
+
+surface2034
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/chicory_1.png,0,0
+}
+
+surface2035
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/chicory_2.png,0,0
+}
+
+surface2036
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/chocolate_0.png,0,0
+}
+
+surface2037
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/chocolate_1.png,0,0
+}
+
+surface2038
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/chocolate_2.png,0,0
+}
+
+surface2039
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/coal_0.png,0,0
+}
+
+surface2040
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/coal_1.png,0,0
+}
+
+surface2041
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/coal_2.png,0,0
+}
+
+surface2042
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/copper_0.png,0,0
+}
+
+surface2043
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/copper_1.png,0,0
+}
+
+surface2044
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/copper_2.png,0,0
+}
+
+surface2045
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/coral_0.png,0,0
+}
+
+surface2046
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/coral_1.png,0,0
+}
+
+surface2047
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/coral_2.png,0,0
+}
+
+surface2048
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/cream_0.png,0,0
+}
+
+surface2049
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/cream_1.png,0,0
+}
+
+surface2050
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/cream_2.png,0,0
+}
+
+surface2051
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/cyan_0.png,0,0
+}
+
+surface2052
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/cyan_1.png,0,0
+}
+
+surface2053
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/cyan_2.png,0,0
+}
+
+surface2054
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/deep_0.png,0,0
+}
+
+surface2055
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/deep_1.png,0,0
+}
+
+surface2056
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/deep_2.png,0,0
+}
+
+surface2057
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/denim_0.png,0,0
+}
+
+surface2058
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/denim_1.png,0,0
+}
+
+surface2059
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/denim_2.png,0,0
+}
+
+surface2060
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/driftwood_0.png,0,0
+}
+
+surface2061
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/driftwood_1.png,0,0
+}
+
+surface2062
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/driftwood_2.png,0,0
+}
+
+surface2063
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/forest_0.png,0,0
+}
+
+surface2064
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/forest_1.png,0,0
+}
+
+surface2065
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/forest_2.png,0,0
+}
+
+surface2066
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/fuchsia_0.png,0,0
+}
+
+surface2067
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/fuchsia_1.png,0,0
+}
+
+surface2068
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/fuchsia_2.png,0,0
+}
+
+surface2069
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/green_0.png,0,0
+}
+
+surface2070
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/green_1.png,0,0
+}
+
+surface2071
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/green_2.png,0,0
+}
+
+surface2072
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/honey_0.png,0,0
+}
+
+surface2073
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/honey_1.png,0,0
+}
+
+surface2074
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/honey_2.png,0,0
+}
+
+surface2075
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/lava_0.png,0,0
+}
+
+surface2076
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/lava_1.png,0,0
+}
+
+surface2077
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/lava_2.png,0,0
+}
+
+surface2078
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/lilypad_0.png,0,0
+}
+
+surface2079
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/lilypad_1.png,0,0
+}
+
+surface2080
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/lilypad_2.png,0,0
+}
+
+surface2081
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/linen_0.png,0,0
+}
+
+surface2082
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/linen_1.png,0,0
+}
+
+surface2083
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/linen_2.png,0,0
+}
+
+surface2084
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/magenta_0.png,0,0
+}
+
+surface2085
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/magenta_1.png,0,0
+}
+
+surface2086
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/magenta_2.png,0,0
+}
+
+surface2087
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/navy_0.png,0,0
+}
+
+surface2088
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/navy_1.png,0,0
+}
+
+surface2089
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/navy_2.png,0,0
+}
+
+surface2090
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/orange_0.png,0,0
+}
+
+surface2091
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/orange_1.png,0,0
+}
+
+surface2092
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/orange_2.png,0,0
+}
+
+surface2093
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/orchid_0.png,0,0
+}
+
+surface2094
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/orchid_1.png,0,0
+}
+
+surface2095
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/orchid_2.png,0,0
+}
+
+surface2096
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/peacock_0.png,0,0
+}
+
+surface2097
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/peacock_1.png,0,0
+}
+
+surface2098
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/peacock_2.png,0,0
+}
+
+surface2099
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/pink_0.png,0,0
+}
+
+surface2100
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/pink_1.png,0,0
+}
+
+surface2101
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/pink_2.png,0,0
+}
+
+surface2102
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/plum_0.png,0,0
+}
+
+surface2103
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/plum_1.png,0,0
+}
+
+surface2104
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/plum_2.png,0,0
+}
+
+surface2105
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/purple_0.png,0,0
+}
+
+surface2106
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/purple_1.png,0,0
+}
+
+surface2107
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/purple_2.png,0,0
+}
+
+surface2108
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/red_0.png,0,0
+}
+
+surface2109
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/red_1.png,0,0
+}
+
+surface2110
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/red_2.png,0,0
+}
+
+surface2111
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/rose_0.png,0,0
+}
+
+surface2112
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/rose_1.png,0,0
+}
+
+surface2113
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/rose_2.png,0,0
+}
+
+surface2114
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/royal_0.png,0,0
+}
+
+surface2115
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/royal_1.png,0,0
+}
+
+surface2116
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/royal_2.png,0,0
+}
+
+surface2117
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/silver_0.png,0,0
+}
+
+surface2118
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/silver_1.png,0,0
+}
+
+surface2119
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/silver_2.png,0,0
+}
+
+surface2120
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/sky_0.png,0,0
+}
+
+surface2121
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/sky_1.png,0,0
+}
+
+surface2122
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/sky_2.png,0,0
+}
+
+surface2123
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/spring_0.png,0,0
+}
+
+surface2124
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/spring_1.png,0,0
+}
+
+surface2125
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/spring_2.png,0,0
+}
+
+surface2126
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/thistle_0.png,0,0
+}
+
+surface2127
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/thistle_1.png,0,0
+}
+
+surface2128
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/thistle_2.png,0,0
+}
+
+surface2129
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/tide_0.png,0,0
+}
+
+surface2130
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/tide_1.png,0,0
+}
+
+surface2131
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/tide_2.png,0,0
+}
+
+surface2132
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/toxic_0.png,0,0
+}
+
+surface2133
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/toxic_1.png,0,0
+}
+
+surface2134
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/toxic_2.png,0,0
+}
+
+surface2135
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/white_0.png,0,0
+}
+
+surface2136
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/white_1.png,0,0
+}
+
+surface2137
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/white_2.png,0,0
+}
+
+surface2138
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/wine_0.png,0,0
+}
+
+surface2139
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/wine_1.png,0,0
+}
+
+surface2140
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/wine_2.png,0,0
+}
+
+surface2141
+{
+	element0,overlay,surface910.png,0,0
+	element1,overlayfast,/palettes/yellow_0.png,0,0
+}
+
+surface2142
+{
+	element0,overlay,surface911.png,0,0
+	element1,overlayfast,/palettes/yellow_1.png,0,0
+}
+
+surface2143
+{
+	element0,overlay,surface912.png,0,0
+	element1,overlayfast,/palettes/yellow_2.png,0,0
+}
+
+
+
+
+
+
+surface3000
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/abyss_0.png,0,0
+}
+
+surface3001
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/abyss_1.png,0,0
+}
+
+surface3002
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/abyss_2.png,0,0
+}
+
+surface3003
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/apricot_0.png,0,0
+}
+
+surface3004
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/apricot_1.png,0,0
+}
+
+surface3005
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/apricot_2.png,0,0
+}
+
+surface3006
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/black_0.png,0,0
+}
+
+surface3007
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/black_1.png,0,0
+}
+
+surface3008
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/black_2.png,0,0
+}
+
+surface3009
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/blood_0.png,0,0
+}
+
+surface3010
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/blood_1.png,0,0
+}
+
+surface3011
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/blood_2.png,0,0
+}
+
+surface3012
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/blue_0.png,0,0
+}
+
+surface3013
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/blue_1.png,0,0
+}
+
+surface3014
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/blue_2.png,0,0
+}
+
+surface3015
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/blush_0.png,0,0
+}
+
+surface3016
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/blush_1.png,0,0
+}
+
+surface3017
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/blush_2.png,0,0
+}
+
+surface3018
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/brass_0.png,0,0
+}
+
+surface3019
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/brass_1.png,0,0
+}
+
+surface3020
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/brass_2.png,0,0
+}
+
+surface3021
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/brick_0.png,0,0
+}
+
+surface3022
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/brick_1.png,0,0
+}
+
+surface3023
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/brick_2.png,0,0
+}
+
+surface3024
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/brown_0.png,0,0
+}
+
+surface3025
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/brown_1.png,0,0
+}
+
+surface3026
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/brown_2.png,0,0
+}
+
+surface3027
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/bubbles_0.png,0,0
+}
+
+surface3028
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/bubbles_1.png,0,0
+}
+
+surface3029
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/bubbles_2.png,0,0
+}
+
+surface3030
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/canary_0.png,0,0
+}
+
+surface3031
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/canary_1.png,0,0
+}
+
+surface3032
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/canary_2.png,0,0
+}
+
+surface3033
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/chicory_0.png,0,0
+}
+
+surface3034
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/chicory_1.png,0,0
+}
+
+surface3035
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/chicory_2.png,0,0
+}
+
+surface3036
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/chocolate_0.png,0,0
+}
+
+surface3037
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/chocolate_1.png,0,0
+}
+
+surface3038
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/chocolate_2.png,0,0
+}
+
+surface3039
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/coal_0.png,0,0
+}
+
+surface3040
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/coal_1.png,0,0
+}
+
+surface3041
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/coal_2.png,0,0
+}
+
+surface3042
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/copper_0.png,0,0
+}
+
+surface3043
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/copper_1.png,0,0
+}
+
+surface3044
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/copper_2.png,0,0
+}
+
+surface3045
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/coral_0.png,0,0
+}
+
+surface3046
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/coral_1.png,0,0
+}
+
+surface3047
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/coral_2.png,0,0
+}
+
+surface3048
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/cream_0.png,0,0
+}
+
+surface3049
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/cream_1.png,0,0
+}
+
+surface3050
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/cream_2.png,0,0
+}
+
+surface3051
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/cyan_0.png,0,0
+}
+
+surface3052
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/cyan_1.png,0,0
+}
+
+surface3053
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/cyan_2.png,0,0
+}
+
+surface3054
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/deep_0.png,0,0
+}
+
+surface3055
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/deep_1.png,0,0
+}
+
+surface3056
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/deep_2.png,0,0
+}
+
+surface3057
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/denim_0.png,0,0
+}
+
+surface3058
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/denim_1.png,0,0
+}
+
+surface3059
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/denim_2.png,0,0
+}
+
+surface3060
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/driftwood_0.png,0,0
+}
+
+surface3061
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/driftwood_1.png,0,0
+}
+
+surface3062
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/driftwood_2.png,0,0
+}
+
+surface3063
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/forest_0.png,0,0
+}
+
+surface3064
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/forest_1.png,0,0
+}
+
+surface3065
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/forest_2.png,0,0
+}
+
+surface3066
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/fuchsia_0.png,0,0
+}
+
+surface3067
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/fuchsia_1.png,0,0
+}
+
+surface3068
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/fuchsia_2.png,0,0
+}
+
+surface3069
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/green_0.png,0,0
+}
+
+surface3070
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/green_1.png,0,0
+}
+
+surface3071
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/green_2.png,0,0
+}
+
+surface3072
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/honey_0.png,0,0
+}
+
+surface3073
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/honey_1.png,0,0
+}
+
+surface3074
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/honey_2.png,0,0
+}
+
+surface3075
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/lava_0.png,0,0
+}
+
+surface3076
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/lava_1.png,0,0
+}
+
+surface3077
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/lava_2.png,0,0
+}
+
+surface3078
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/lilypad_0.png,0,0
+}
+
+surface3079
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/lilypad_1.png,0,0
+}
+
+surface3080
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/lilypad_2.png,0,0
+}
+
+surface3081
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/linen_0.png,0,0
+}
+
+surface3082
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/linen_1.png,0,0
+}
+
+surface3083
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/linen_2.png,0,0
+}
+
+surface3084
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/magenta_0.png,0,0
+}
+
+surface3085
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/magenta_1.png,0,0
+}
+
+surface3086
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/magenta_2.png,0,0
+}
+
+surface3087
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/navy_0.png,0,0
+}
+
+surface3088
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/navy_1.png,0,0
+}
+
+surface3089
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/navy_2.png,0,0
+}
+
+surface3090
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/orange_0.png,0,0
+}
+
+surface3091
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/orange_1.png,0,0
+}
+
+surface3092
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/orange_2.png,0,0
+}
+
+surface3093
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/orchid_0.png,0,0
+}
+
+surface3094
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/orchid_1.png,0,0
+}
+
+surface3095
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/orchid_2.png,0,0
+}
+
+surface3096
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/peacock_0.png,0,0
+}
+
+surface3097
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/peacock_1.png,0,0
+}
+
+surface3098
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/peacock_2.png,0,0
+}
+
+surface3099
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/pink_0.png,0,0
+}
+
+surface3100
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/pink_1.png,0,0
+}
+
+surface3101
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/pink_2.png,0,0
+}
+
+surface3102
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/plum_0.png,0,0
+}
+
+surface3103
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/plum_1.png,0,0
+}
+
+surface3104
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/plum_2.png,0,0
+}
+
+surface3105
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/purple_0.png,0,0
+}
+
+surface3106
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/purple_1.png,0,0
+}
+
+surface3107
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/purple_2.png,0,0
+}
+
+surface3108
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/red_0.png,0,0
+}
+
+surface3109
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/red_1.png,0,0
+}
+
+surface3110
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/red_2.png,0,0
+}
+
+surface3111
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/rose_0.png,0,0
+}
+
+surface3112
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/rose_1.png,0,0
+}
+
+surface3113
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/rose_2.png,0,0
+}
+
+surface3114
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/royal_0.png,0,0
+}
+
+surface3115
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/royal_1.png,0,0
+}
+
+surface3116
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/royal_2.png,0,0
+}
+
+surface3117
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/silver_0.png,0,0
+}
+
+surface3118
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/silver_1.png,0,0
+}
+
+surface3119
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/silver_2.png,0,0
+}
+
+surface3120
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/sky_0.png,0,0
+}
+
+surface3121
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/sky_1.png,0,0
+}
+
+surface3122
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/sky_2.png,0,0
+}
+
+surface3123
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/spring_0.png,0,0
+}
+
+surface3124
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/spring_1.png,0,0
+}
+
+surface3125
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/spring_2.png,0,0
+}
+
+surface3126
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/thistle_0.png,0,0
+}
+
+surface3127
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/thistle_1.png,0,0
+}
+
+surface3128
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/thistle_2.png,0,0
+}
+
+surface3129
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/tide_0.png,0,0
+}
+
+surface3130
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/tide_1.png,0,0
+}
+
+surface3131
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/tide_2.png,0,0
+}
+
+surface3132
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/toxic_0.png,0,0
+}
+
+surface3133
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/toxic_1.png,0,0
+}
+
+surface3134
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/toxic_2.png,0,0
+}
+
+surface3135
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/white_0.png,0,0
+}
+
+surface3136
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/white_1.png,0,0
+}
+
+surface3137
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/white_2.png,0,0
+}
+
+surface3138
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/wine_0.png,0,0
+}
+
+surface3139
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/wine_1.png,0,0
+}
+
+surface3140
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/wine_2.png,0,0
+}
+
+surface3141
+{
+	element0,overlay,surface920.png,0,0
+	element1,overlayfast,/palettes/yellow_0.png,0,0
+}
+
+surface3142
+{
+	element0,overlay,surface921.png,0,0
+	element1,overlayfast,/palettes/yellow_1.png,0,0
+}
+
+surface3143
+{
+	element0,overlay,surface922.png,0,0
+	element1,overlayfast,/palettes/yellow_2.png,0,0
+}
